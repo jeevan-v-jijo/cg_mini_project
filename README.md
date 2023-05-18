@@ -1,1 +1,3 @@
-# cg_mini_project
+# Flappy Cloud
+cg_mini_project
+
